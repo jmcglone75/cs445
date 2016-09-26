@@ -1,0 +1,12 @@
+Gerard McGlone
+Writeup - Assignment 2
+
+The following information is based on a test with the Test32K.txt file:
+
+	For the append() method, MyStringBuilder2 was the fastest implementation.  The time per operation was 180.35, and in the MyStringBuilder implementation, it was 238.85.  The StringBuilder Implementation came in third with a time per op of 480.03.  The String implementation was by far the worst with a time per operation of 8689.38.
+
+	For the delete() method, the MyStringBuilder2 was the fasters with a time per operation of 138.64. The second closest was the MyStringBuilder class with a time per operation of 1768.92.  The third fasters was the String Class with a time per op of 8837.17. The slowest the MyStringBuilder implementation with a time per op of 34660.6.
+
+	For the insert() method, the MyStringBuilder2 implementation was the fastest with a timer per operation of 121.45.  The second fastest was StringBuilder with a time per op of 610.48 and the third fastest the String class with a time per op of 15993.73. was MyStringBuilder with a time per op of 17304.23.
+
+	The best implementation would be the MyStringBuilder2 class.  The delete() method is faster because I didn't have a for loop at the end that resets LastC to the last node (that would be O(N) for just one part).  The insert method is also the fastest.  

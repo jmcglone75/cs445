@@ -1,0 +1,19 @@
+Name:  Gerard McGlone
+Assignment # 5
+Lec Day and Time:  Tu & Th @ 9:30
+Rec Day and Time:  Wed @ 11:00
+Program Due Date:  04/19/2016
+Hand In Date:  04/18/2016
+Source Code:
+	Assig5.java
+	BinaryNode.java
+	HuffmanTree.java
+Compiled Code:
+	Assig5.class
+	BinaryNode.class
+	HuffmanTree.class
+Other Files:
+	huff1.txt
+	huff2.txt
+Does Program Compile Without Errors:  YES
+Does Program Run Without Errors:  YES

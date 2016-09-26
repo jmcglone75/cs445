@@ -1,0 +1,23 @@
+Name:  Gerard McGlone
+Assignment # 2
+Lec Day and Time:  Tu & Th @ 9:30
+Rec Day and Time:  Wed @ 11:00
+Program Due Date:  02/16/2016
+Hand In Date:  02/15/2016
+Source Code:
+	MyStringBuilder.java
+	Assig2.java
+	Assig2B.java
+Compiled Code:
+	MyStringBuilder.class
+	Assig2.class
+	Assig2B.class
+	MyStringBuilder$CNode.class
+Other Files
+	Writeup.txt
+	Test8K.txt
+	Test16K.txt
+	Test32K.txt
+	This File
+Does Program Compile Without Errors:  YES
+Does Program Run Without Errors:  YES

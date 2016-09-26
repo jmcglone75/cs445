@@ -1,0 +1,55 @@
+Name:______________Gerard McGlone________________ Assignment #: _______1_______
+
+Lecture Day and Time: __________Tu-Th 9:30_________________
+
+Recitation Day and Time: _________Wed 11:00________________
+
+Program Due Date: __________02/01/2016_____________
+
+Handed in Date: ___________02/01/2016____________ 
+
+Source code (.java) file name(s):
+
+_____RandIndexQueue.java,  MyQ.java,  Shufflable.java, Indexable.java,
+__Blackjack.java,  Card.java,  Assig1A.java____
+
+Compiled (.class) file name(s): ____RandIndexQueue.class, MyQ.class, Shufflable.class
+Indexable.class, Blackjack.class, Card.class, Assig1A.class____________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: ____yes_________ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ____yes_________ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
+ 
